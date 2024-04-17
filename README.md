@@ -3,7 +3,7 @@
   <img align="center" />![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=vyoshio71&show_icons=true&theme=tokyonight)</img>
   <img align="center" />![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vyoshio71&layout=donut&hide_progress=false)</img>
 
-## Linguagens 
+## Languages 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="JavaScritp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />

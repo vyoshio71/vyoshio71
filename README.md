@@ -1,8 +1,7 @@
 ### Olá, Eu sou o Victor Yoshio 
-<div display="flex" justify-content:"space-between">
+
   <img align="center" />![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=vyoshio71&show_icons=true&theme=tokyonight)</img>
   <img align="center" />![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vyoshio71&layout=donut&hide_progress=false)</img>
-</div>
 
 
 ## Languages 
